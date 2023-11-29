@@ -1,5 +1,5 @@
-const add = (x: number, y: number): number => {
+const sum = (x: number, y: number): number => {
   return x + y;
 };
 
-module.exports = add;
+export default sum;
